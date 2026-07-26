@@ -1,0 +1,16 @@
+{
+    "name": "POS Terminal - Fribus",
+    "short_name": "POS Terminal",
+    "description": "پایانه پرداخت فری‌باس",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#ffcc00",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/349/349221.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
